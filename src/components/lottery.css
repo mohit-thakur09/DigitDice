@@ -1,0 +1,25 @@
+.lotteryContainer{
+    width: 60%;
+    margin: auto;
+    background-color: #7951A2;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.ballsContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #E9E6F9;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+}
+
